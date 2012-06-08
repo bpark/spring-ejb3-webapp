@@ -1,0 +1,14 @@
+target/
+*.iml
+*.ipr
+*.log
+*.iws
+build/
+*.project
+.settings/
+bin/
+*.classpath
+*.eml
+atlassian-ide-plugin.xml
+.idea
+
